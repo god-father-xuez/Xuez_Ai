@@ -7,6 +7,10 @@ building your own chat bots using Artificial Intelligence Markup Language, or AI
 Coming soon
 
 #Testing and||or contributing
+If you wish to take part and learn how to code and improve the Xuez AI, Please follow the instructions provided within this Github Repo: https://github.com/keiffster/program-y/wiki
+
+
+
  Discord	https://discord.gg/2SEuMbY 
  Find -> Godfather#4795 User_ID: 383387724595593216
  
